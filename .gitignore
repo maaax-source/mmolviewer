@@ -1,0 +1,13 @@
+# Rust
+andet/kode/rust/**/target/
+**/*.rs.bk
+# Python
+**/.venv/*
+# LaTeX
+*.aux
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+
+
